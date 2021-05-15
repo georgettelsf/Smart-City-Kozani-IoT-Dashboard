@@ -6,4 +6,4 @@
 
 Η διαδικτυακή εφαρμογή αναπτύχθηκε με τη χρήση της PHP για το backend κομμάτι της, χρησιμοποιώντας το framework [Laravel](https://laravel.com/), και την React, χρησιμοποιώντας το framework [NextJS](https://nextjs.org/) για το frontend κομμάτι της.
 
-Η παρουσίαση βρίσκεται στον παρακάτω [σύνδεσμο](https://docs.google.com/presentation/d/1ddC_nvLERcizgCyKAT445PwX3e-fMZzhGYyF4Fzh2a0/edit?usp=sharing)
+Η παρουσίαση βρίσκεται στον παρακάτω [σύνδεσμο](https://docs.google.com/presentation/d/1ddC_nvLERcizgCyKAT445PwX3e-fMZzhGYyF4Fzh2a0/edit?usp=sharing).
